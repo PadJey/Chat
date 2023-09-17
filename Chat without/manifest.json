@@ -1,0 +1,10 @@
+{
+    "name": "Chat",
+    "short_name": "Me",
+    "theme_color": "#000000",
+    "background_color": "#008eff",
+    "display": "browser",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/index.html"
+  }
