@@ -1,4 +1,4 @@
-# Live Unterhaltungs Applikation / Live Chat Application
+# Live Unterhaltungs Applikation / Live Chat Application (Beta)
 
 ![Preview Chat](https://github.com/PadJey/Chat/assets/89216593/fc08e6e6-d45e-4da8-ad7c-822ebcf7a034)
 
