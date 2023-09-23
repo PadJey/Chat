@@ -36,4 +36,4 @@
 
 # Beitragende / Contributing
 
-- Powered by OpenAI and OpenSource
+- Powered by Github, OpenAI and OpenSource
