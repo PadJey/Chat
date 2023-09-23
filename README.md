@@ -11,13 +11,12 @@
 
 # Funktionen / Features
 
-- function ()
-ChatContainer
-- function () AddMessage 
-- function () SendMessage,
-- function () ScrollBottom
-- function () GifBackground
-- HTML, CSS % JS in UwU
+- function () ChatContainer;
+- function () AddMessage;
+- function () SendMessage;
+- function () ScrollBottom;
+- function () GifBackground;
+- HTML, CSS & JS in UwU
 - Supported Updates for <50 years
 
 
@@ -26,15 +25,15 @@ ChatContainer
 - p>
 - Visuell Studio Umgang
 - CSS-Raster und Flex zum Erstellen von Layouts verwenden
-- Mathematik (optimierte und wiederverwendbare Funktionen)
+- Privatsphäre mit Keksen (optimierte und wiederverwendbare Funktionen)
 - p/>
 - p>
 - Visual Studio Handling
 - Use CSS grid and flex to create layout
-- Mathematics (optimised and reusable functions)
+- Privaty with Cookies (optimised and reusable functions)
 - p/>
 
 
 # Beitragende / Contributing
 
-- Powered by OpenAI and Junus E.
+- Powered by OpenAI and OpenSource
