@@ -6,7 +6,7 @@
 
 - A simple live chat app to get familiar with the programming with "Gif" background personalisation.
 
-🔗 Live preview: https://taschenrechner100.netlify.app/ 😊
+🔗 Live preview: [https://taschenrechner100.netlify.app/](https://livechatpg.netlify.app/) 😊
 
 
 # Funktionen / Features
